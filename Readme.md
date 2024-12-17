@@ -4,3 +4,5 @@ Participants:
   Chaeeun Lee
   Simone Fazzelo
   Salvador Fernández
+
+  ![Database Diagram](DataModeler.png)
