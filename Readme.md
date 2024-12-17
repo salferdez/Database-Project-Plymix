@@ -1,4 +1,4 @@
-Project for Database assignature, Universidad de Málaga. 
+Project for Database course, Universidad de Málaga. 
 
 Participants: 
   Chaeeun Lee
